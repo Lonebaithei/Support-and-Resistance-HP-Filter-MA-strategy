@@ -1,0 +1,1 @@
+# Support-and-Resistance-HP-Filter-MA-strategy
