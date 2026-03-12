@@ -1,0 +1,9 @@
+# ── Core dependencies ─────────────────────────────────────────────────────────
+MetaTrader5>=5.0.45        # MT5 Python bridge (Windows only)
+numpy>=1.24
+pandas>=2.0
+scipy>=1.11                # HP Filter sparse matrix solver
+matplotlib>=3.7            # Charts and backtest visualisation
+
+# ── Optional ──────────────────────────────────────────────────────────────────
+# yfinance>=0.2             # For real FX data without MT5
